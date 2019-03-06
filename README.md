@@ -1,2 +1,2 @@
-# utlils.sh
-Random Util scripts
+# ./utlils.sh
+Random utility shell scripts
